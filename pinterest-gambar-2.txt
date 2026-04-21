@@ -1,0 +1,127 @@
+Create a square promotional banner (1:1 ratio, ultra high resolution, 4K) with EXACT layout and composition like a gambling promo poster.
+
+BACKGROUND:
+
+Dark black background with subtle gradient
+
+Add bright electric lightning streaks (orange/yellow glowing) spreading diagonally across background
+
+Add glowing fire/flame effect at bottom foreground (realistic, high contrast, orange-yellow flames)
+
+MAIN SUBJECT (RIGHT SIDE):
+
+A beautiful young Asian woman (realistic, soft skin, Korean style beauty)
+
+Long dark brown hair with bangs
+
+Wearing a semi-transparent grey sweater
+
+Pose: sitting slightly angled to the left, looking directly at camera
+
+Lighting: soft cinematic light from front, slight rim light from right
+
+Skin smooth, high detail, photorealistic
+
+Position: RIGHT SIDE (do not change position)
+
+LEFT SIDE TEXT (BIG TYPOGRAPHY):
+
+Main big vertical text: "TOGEL"
+
+Font: Bold, condensed sans-serif (similar to Bebas Neue / Impact style)
+
+Color: Bright orange gradient (deep orange to yellow)
+
+Add strong glow effect + subtle inner shadow
+
+Add outer glow (orange/yellow neon)
+
+Slight 3D depth
+
+Position: LEFT SIDE, dominating vertically
+
+TOP LEFT LOGO TEXT:
+
+Text: "SalvaDor"
+
+Font: modern sans-serif bold
+
+White color with slight glow
+
+Add small decorative icon (like flower/sun) near text
+
+Place at TOP LEFT
+
+SCRIPT TEXT ABOVE MAIN:
+
+Text: "Link Akses"
+
+Font: handwritten/script style
+
+Color: white with slight glow
+
+Positioned above "TOGEL"
+
+BADGES (YELLOW LABELS):
+
+"AGEN RESMI" (above middle area overlapping text)
+
+"TERPERCAYA" (middle left overlapping text)
+
+Style: yellow rectangle label
+
+Font: bold sans-serif
+
+Color text: blue
+
+Add slight shadow + glow
+
+BOTTOM INFO BOXES:
+
+Two red rounded rectangles with white border glow
+
+Left text: "MIN. DEPO 5.000"
+
+Right text: "MIN. WEDE 50.000"
+
+Font: bold, white, uppercase
+
+Add glow + drop shadow
+
+Position: bottom left area
+
+BILLIARD BALLS ELEMENTS:
+
+Add 3D billiard balls floating:
+
+Number 8 near top center
+
+Number 1 near right side
+
+Number 3 near bottom left
+
+Glossy, reflective, realistic lighting
+
+EFFECTS:
+
+Strong neon glow on text
+
+Fire glow reflecting on objects
+
+High contrast lighting
+
+Depth of field slight blur background
+
+Ultra sharp details
+
+Cinematic color grading (orange & black theme)
+
+IMPORTANT:
+
+Keep ALL element positions EXACT (text left, model right, flames bottom, labels in same places)
+
+Make typography thicker, more bold, with stronger glow
+
+Do NOT change layout composition
+
+Make it more premium, sharper, more modern 
